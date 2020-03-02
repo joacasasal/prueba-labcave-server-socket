@@ -1,0 +1,15 @@
+{
+  "name": "prueba-labcave-server-socket",
+  "description": "Server NodeJS sin express, (con socket.io) de la Prueba LabCave FullStackDeveloper de Joaquin Casas.",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Joaquin Casas",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
