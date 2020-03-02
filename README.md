@@ -2,7 +2,8 @@
 Server NodeJS sin express de la Prueba LabCave FullStackDeveloper de Joaqu&iacute;n Casas.
 
 ###### Para arrancar el servidor:
-*nodemon index.js*
+- *npm install*
+- *nodemon index.js*
 
 ###### Configuraci&oacute;n:
 - **nodemon**: para recargar el servidor al detectar cambios en el c&oacute;digo.
